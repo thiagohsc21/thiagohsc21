@@ -1,5 +1,5 @@
 
-💻 Software Engineer at Rei do Pitaco - Platform 
+💻 Software Engineer at Rei do Pitaco - Platform <br>
 🎓 Computer Science at USP - Graduation Date December/2025
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagohscardoso/)
